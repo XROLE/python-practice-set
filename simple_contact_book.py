@@ -1,3 +1,12 @@
+# ✅ 9. Simple Contact Book (Dictionary Practice)
+# Let the user store names and phone numbers, and retrieve them on demand.
+# python
+# CopyEdit
+# Input: Add John - 09012345678
+# Input: Get John
+# Output: 09012345678
+
+
 phoneBook  = {}
 stop = False
 
